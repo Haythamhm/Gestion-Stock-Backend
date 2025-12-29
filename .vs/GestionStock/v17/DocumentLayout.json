@@ -1,0 +1,1006 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dotnet-project\\GestionStock\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|d:\\dotnet-project\\gestionstock\\gestionstock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|solutionrelative:gestionstock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|d:\\dotnet-project\\gestionstock\\gestionstock\\service\\catalog\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|solutionrelative:gestionstock\\service\\catalog\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|d:\\dotnet-project\\gestionstock\\gestionstock\\service\\catalog\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|solutionrelative:gestionstock\\service\\catalog\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|d:\\dotnet-project\\gestionstock\\gestionstock\\service\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|solutionrelative:gestionstock\\service\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|d:\\dotnet-project\\gestionstock\\gestionstock\\service\\auth\\permissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|solutionrelative:gestionstock\\service\\auth\\permissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|d:\\dotnet-project\\gestionstock\\gestionstock\\service\\auth\\ipermissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|solutionrelative:gestionstock\\service\\auth\\ipermissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|d:\\dotnet-project\\gestionstock\\gestionstock\\service\\auth\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|solutionrelative:gestionstock\\service\\auth\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|d:\\dotnet-project\\gestionstock\\gestionstock\\data\\stockdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|solutionrelative:gestionstock\\data\\stockdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|d:\\dotnet-project\\gestionstock\\gestionstock\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|solutionrelative:gestionstock\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|d:\\dotnet-project\\gestionstock\\gestionstock\\models\\auditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|solutionrelative:gestionstock\\models\\auditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|d:\\dotnet-project\\gestionstock\\gestionstock\\models\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|solutionrelative:gestionstock\\models\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|d:\\dotnet-project\\gestionstock\\gestionstock\\service\\common\\businessruleexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|solutionrelative:gestionstock\\service\\common\\businessruleexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|d:\\dotnet-project\\gestionstock\\gestionstock\\service\\common\\exceptionnotfound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|solutionrelative:gestionstock\\service\\common\\exceptionnotfound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|d:\\dotnet-project\\gestionstock\\gestionstock\\contracts\\auth\\authresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|solutionrelative:gestionstock\\contracts\\auth\\authresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|d:\\dotnet-project\\gestionstock\\gestionstock\\contracts\\auth\\authrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|solutionrelative:gestionstock\\contracts\\auth\\authrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|d:\\dotnet-project\\gestionstock\\gestionstock\\contracts\\auth\\authmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|solutionrelative:gestionstock\\contracts\\auth\\authmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|d:\\dotnet-project\\gestionstock\\gestionstock\\contracts\\stock\\inventorycountrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|solutionrelative:gestionstock\\contracts\\stock\\inventorycountrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|d:\\dotnet-project\\gestionstock\\gestionstock\\contracts\\orders\\confirmsalesorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|solutionrelative:gestionstock\\contracts\\orders\\confirmsalesorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|d:\\dotnet-project\\gestionstock\\gestionstock\\contracts\\orders\\purchaseorderaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|solutionrelative:gestionstock\\contracts\\orders\\purchaseorderaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|d:\\dotnet-project\\gestionstock\\gestionstock\\contracts\\orders\\purchaseorderrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|solutionrelative:gestionstock\\contracts\\orders\\purchaseorderrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|d:\\dotnet-project\\gestionstock\\gestionstock\\contracts\\common\\pagedquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|solutionrelative:gestionstock\\contracts\\common\\pagedquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|d:\\dotnet-project\\gestionstock\\gestionstock\\contracts\\inventory\\inventoryitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|solutionrelative:gestionstock\\contracts\\inventory\\inventoryitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|d:\\dotnet-project\\gestionstock\\gestionstock\\contracts\\uom\\unitofmeasuredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|solutionrelative:gestionstock\\contracts\\uom\\unitofmeasuredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|d:\\dotnet-project\\gestionstock\\gestionstock\\contracts\\categories\\categoriedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|solutionrelative:gestionstock\\contracts\\categories\\categoriedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|d:\\dotnet-project\\gestionstock\\gestionstock\\contracts\\partners\\supplierrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|solutionrelative:gestionstock\\contracts\\partners\\supplierrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|d:\\dotnet-project\\gestionstock\\gestionstock\\contracts\\stock\\stockmovementrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|solutionrelative:gestionstock\\contracts\\stock\\stockmovementrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|d:\\dotnet-project\\gestionstock\\gestionstock\\contracts\\orders\\salesorderrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|solutionrelative:gestionstock\\contracts\\orders\\salesorderrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|d:\\dotnet-project\\gestionstock\\gestionstock\\contracts\\orders\\orderresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|solutionrelative:gestionstock\\contracts\\orders\\orderresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|d:\\dotnet-project\\gestionstock\\gestionstock\\contracts\\warehouses\\warehouserequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|solutionrelative:gestionstock\\contracts\\warehouses\\warehouserequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|d:\\dotnet-project\\gestionstock\\gestionstock\\contracts\\products\\productresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|solutionrelative:gestionstock\\contracts\\products\\productresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|d:\\dotnet-project\\gestionstock\\gestionstock\\contracts\\products\\productrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|solutionrelative:gestionstock\\contracts\\products\\productrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|d:\\dotnet-project\\gestionstock\\gestionstock\\contracts\\common\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|solutionrelative:gestionstock\\contracts\\common\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|d:\\dotnet-project\\gestionstock\\gestionstock\\contracts\\common\\validationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|solutionrelative:gestionstock\\contracts\\common\\validationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|d:\\dotnet-project\\gestionstock\\gestionstock\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|solutionrelative:gestionstock\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|d:\\dotnet-project\\gestionstock\\gestionstock\\models\\products\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|solutionrelative:gestionstock\\models\\products\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|d:\\dotnet-project\\gestionstock\\gestionstock\\models\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|solutionrelative:gestionstock\\models\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|d:\\dotnet-project\\gestionstock\\gestionstock\\models\\products\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|solutionrelative:gestionstock\\models\\products\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|d:\\dotnet-project\\gestionstock\\gestionstock\\models\\inventory\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|solutionrelative:gestionstock\\models\\inventory\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|d:\\dotnet-project\\gestionstock\\gestionstock\\models\\inventory\\inventorycount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|solutionrelative:gestionstock\\models\\inventory\\inventorycount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|d:\\dotnet-project\\gestionstock\\gestionstock\\models\\inventory\\inventorycountline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|solutionrelative:gestionstock\\models\\inventory\\inventorycountline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|d:\\dotnet-project\\gestionstock\\gestionstock\\models\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|solutionrelative:gestionstock\\models\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|d:\\dotnet-project\\gestionstock\\gestionstock\\models\\users\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|solutionrelative:gestionstock\\models\\users\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|d:\\dotnet-project\\gestionstock\\gestionstock\\models\\users\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|solutionrelative:gestionstock\\models\\users\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|d:\\dotnet-project\\gestionstock\\gestionstock\\models\\stock\\stockmovementline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|solutionrelative:gestionstock\\models\\stock\\stockmovementline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|d:\\dotnet-project\\gestionstock\\gestionstock\\models\\stock\\stockmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|solutionrelative:gestionstock\\models\\stock\\stockmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|d:\\dotnet-project\\gestionstock\\gestionstock\\models\\sales\\salesorderline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|solutionrelative:gestionstock\\models\\sales\\salesorderline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|d:\\dotnet-project\\gestionstock\\gestionstock\\models\\sales\\salesorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|solutionrelative:gestionstock\\models\\sales\\salesorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|d:\\dotnet-project\\gestionstock\\gestionstock\\models\\parties\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|solutionrelative:gestionstock\\models\\parties\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|d:\\dotnet-project\\gestionstock\\gestionstock\\models\\parties\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|solutionrelative:gestionstock\\models\\parties\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|d:\\dotnet-project\\gestionstock\\gestionstock\\models\\order\\purchaseorderline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|solutionrelative:gestionstock\\models\\order\\purchaseorderline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|d:\\dotnet-project\\gestionstock\\gestionstock\\models\\order\\purchaseorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|solutionrelative:gestionstock\\models\\order\\purchaseorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|d:\\dotnet-project\\gestionstock\\gestionstock\\models\\products\\unitofmeasure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|solutionrelative:gestionstock\\models\\products\\unitofmeasure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|d:\\dotnet-project\\gestionstock\\gestionstock\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|solutionrelative:gestionstock\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|d:\\dotnet-project\\gestionstock\\gestionstock\\enums\\countstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|solutionrelative:gestionstock\\enums\\countstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|d:\\dotnet-project\\gestionstock\\gestionstock\\enums\\movementtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|solutionrelative:gestionstock\\enums\\movementtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|d:\\dotnet-project\\gestionstock\\gestionstock\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|solutionrelative:gestionstock\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|d:\\dotnet-project\\gestionstock\\gestionstock\\enums\\movementstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|solutionrelative:gestionstock\\enums\\movementstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|d:\\dotnet-project\\gestionstock\\gestionstock\\migrations\\20251228174244_initialecreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E42F727-3925-4D00-9749-CAFDACFEA451}|GestionStock\\GestionStock.csproj|solutionrelative:gestionstock\\migrations\\20251228174244_initialecreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\dotnet-project\\GestionStock\\GestionStock\\Service\\Catalog\\IProductService.cs",
+              "RelativeDocumentMoniker": "GestionStock\\Service\\Catalog\\IProductService.cs",
+              "ToolTip": "D:\\dotnet-project\\GestionStock\\GestionStock\\Service\\Catalog\\IProductService.cs",
+              "RelativeToolTip": "GestionStock\\Service\\Catalog\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T17:57:15.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\dotnet-project\\GestionStock\\GestionStock\\Service\\Auth\\AuthService.cs",
+              "RelativeDocumentMoniker": "GestionStock\\Service\\Auth\\AuthService.cs",
+              "ToolTip": "D:\\dotnet-project\\GestionStock\\GestionStock\\Service\\Auth\\AuthService.cs",
+              "RelativeToolTip": "GestionStock\\Service\\Auth\\AuthService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswOIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T17:40:11.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PermissionService.cs",
+              "DocumentMoniker": "D:\\dotnet-project\\GestionStock\\GestionStock\\Service\\Auth\\PermissionService.cs",
+              "RelativeDocumentMoniker": "GestionStock\\Service\\Auth\\PermissionService.cs",
+              "ToolTip": "D:\\dotnet-project\\GestionStock\\GestionStock\\Service\\Auth\\PermissionService.cs",
+              "RelativeToolTip": "GestionStock\\Service\\Auth\\PermissionService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T17:36:07.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotnet-project\\GestionStock\\GestionStock\\Program.cs",
+              "RelativeDocumentMoniker": "GestionStock\\Program.cs",
+              "ToolTip": "D:\\dotnet-project\\GestionStock\\GestionStock\\Program.cs",
+              "RelativeToolTip": "GestionStock\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:13:16.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\dotnet-project\\GestionStock\\GestionStock\\Service\\Catalog\\ProductService.cs",
+              "RelativeDocumentMoniker": "GestionStock\\Service\\Catalog\\ProductService.cs",
+              "ToolTip": "D:\\dotnet-project\\GestionStock\\GestionStock\\Service\\Catalog\\ProductService.cs",
+              "RelativeToolTip": "GestionStock\\Service\\Catalog\\ProductService.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAowFoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T17:57:54.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPermissionService.cs",
+              "DocumentMoniker": "D:\\dotnet-project\\GestionStock\\GestionStock\\Service\\Auth\\IPermissionService.cs",
+              "RelativeDocumentMoniker": "GestionStock\\Service\\Auth\\IPermissionService.cs",
+              "ToolTip": "D:\\dotnet-project\\GestionStock\\GestionStock\\Service\\Auth\\IPermissionService.cs",
+              "RelativeToolTip": "GestionStock\\Service\\Auth\\IPermissionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T17:35:36.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\dotnet-project\\GestionStock\\GestionStock\\Service\\Auth\\IAuthService.cs",
+              "RelativeDocumentMoniker": "GestionStock\\Service\\Auth\\IAuthService.cs",
+              "ToolTip": "D:\\dotnet-project\\GestionStock\\GestionStock\\Service\\Auth\\IAuthService.cs",
+              "RelativeToolTip": "GestionStock\\Service\\Auth\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T17:34:16.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "D:\\dotnet-project\\GestionStock\\GestionStock\\Models\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "GestionStock\\Models\\RefreshToken.cs",
+              "ToolTip": "D:\\dotnet-project\\GestionStock\\GestionStock\\Models\\RefreshToken.cs",
+              "RelativeToolTip": "GestionStock\\Models\\RefreshToken.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T17:27:07.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BusinessRuleException.cs",
+              "DocumentMoniker": "D:\\dotnet-project\\GestionStock\\GestionStock\\Service\\Common\\BusinessRuleException.cs",
+              "RelativeDocumentMoniker": "GestionStock\\Service\\Common\\BusinessRuleException.cs",
+              "ToolTip": "D:\\dotnet-project\\GestionStock\\GestionStock\\Service\\Common\\BusinessRuleException.cs",
+              "RelativeToolTip": "GestionStock\\Service\\Common\\BusinessRuleException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T17:24:19.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EntityBase.cs",
+              "DocumentMoniker": "D:\\dotnet-project\\GestionStock\\GestionStock\\Models\\EntityBase.cs",
+              "RelativeDocumentMoniker": "GestionStock\\Models\\EntityBase.cs",
+              "ToolTip": "D:\\dotnet-project\\GestionStock\\GestionStock\\Models\\EntityBase.cs",
+              "RelativeToolTip": "GestionStock\\Models\\EntityBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:22:15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuditableEntity.cs",
+              "DocumentMoniker": "D:\\dotnet-project\\GestionStock\\GestionStock\\Models\\AuditableEntity.cs",
+              "RelativeDocumentMoniker": "GestionStock\\Models\\AuditableEntity.cs",
+              "ToolTip": "D:\\dotnet-project\\GestionStock\\GestionStock\\Models\\AuditableEntity.cs",
+              "RelativeToolTip": "GestionStock\\Models\\AuditableEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:22:27.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StockDbContext.cs",
+              "DocumentMoniker": "D:\\dotnet-project\\GestionStock\\GestionStock\\Data\\StockDbContext.cs",
+              "RelativeDocumentMoniker": "GestionStock\\Data\\StockDbContext.cs",
+              "ToolTip": "D:\\dotnet-project\\GestionStock\\GestionStock\\Data\\StockDbContext.cs",
+              "RelativeToolTip": "GestionStock\\Data\\StockDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:48:48.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ExceptionNotFound.cs",
+              "DocumentMoniker": "D:\\dotnet-project\\GestionStock\\GestionStock\\Service\\Common\\ExceptionNotFound.cs",
+              "RelativeDocumentMoniker": "GestionStock\\Service\\Common\\ExceptionNotFound.cs",
+              "ToolTip": "D:\\dotnet-project\\GestionStock\\GestionStock\\Service\\Common\\ExceptionNotFound.cs",
+              "RelativeToolTip": "GestionStock\\Service\\Common\\ExceptionNotFound.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T17:23:45.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthResponses.cs",
+              "DocumentMoniker": "D:\\dotnet-project\\GestionStock\\GestionStock\\Contracts\\Auth\\AuthResponses.cs",
+              "RelativeDocumentMoniker": "GestionStock\\Contracts\\Auth\\AuthResponses.cs",
+              "ToolTip": "D:\\dotnet-project\\GestionStock\\GestionStock\\Contracts\\Auth\\AuthResponses.cs",
+              "RelativeToolTip": "GestionStock\\Contracts\\Auth\\AuthResponses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T17:09:46.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthRequests.cs",
+              "DocumentMoniker": "D:\\dotnet-project\\GestionStock\\GestionStock\\Contracts\\Auth\\AuthRequests.cs",
+              "RelativeDocumentMoniker": "GestionStock\\Contracts\\Auth\\AuthRequests.cs",
+              "ToolTip": "D:\\dotnet-project\\GestionStock\\GestionStock\\Contracts\\Auth\\AuthRequests.cs",
+              "RelativeToolTip": "GestionStock\\Contracts\\Auth\\AuthRequests.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwDIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T17:09:03.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthModels.cs",
+              "DocumentMoniker": "D:\\dotnet-project\\GestionStock\\GestionStock\\Contracts\\Auth\\AuthModels.cs",
+              "RelativeDocumentMoniker": "GestionStock\\Contracts\\Auth\\AuthModels.cs",
+              "ToolTip": "D:\\dotnet-project\\GestionStock\\GestionStock\\Contracts\\Auth\\AuthModels.cs",
+              "RelativeToolTip": "GestionStock\\Contracts\\Auth\\AuthModels.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T17:07:30.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ConfirmSalesOrderRequest.cs",
+              "DocumentMoniker": "D:\\dotnet-project\\GestionStock\\GestionStock\\Contracts\\Orders\\ConfirmSalesOrderRequest.cs",
+              "RelativeDocumentMoniker": "GestionStock\\Contracts\\Orders\\ConfirmSalesOrderRequest.cs",
+              "ToolTip": "D:\\dotnet-project\\GestionStock\\GestionStock\\Contracts\\Orders\\ConfirmSalesOrderRequest.cs",
+              "RelativeToolTip": "GestionStock\\Contracts\\Orders\\ConfirmSalesOrderRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T17:01:51.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PurchaseOrderAction.cs",
+              "DocumentMoniker": "D:\\dotnet-project\\GestionStock\\GestionStock\\Contracts\\Orders\\PurchaseOrderAction.cs",
+              "RelativeDocumentMoniker": "GestionStock\\Contracts\\Orders\\PurchaseOrderAction.cs",
+              "ToolTip": "D:\\dotnet-project\\GestionStock\\GestionStock\\Contracts\\Orders\\PurchaseOrderAction.cs",
+              "RelativeToolTip": "GestionStock\\Contracts\\Orders\\PurchaseOrderAction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T17:00:33.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "InventoryItemDTO.cs",
+              "DocumentMoniker": "D:\\dotnet-project\\GestionStock\\GestionStock\\Contracts\\Inventory\\InventoryItemDTO.cs",
+              "RelativeDocumentMoniker": "GestionStock\\Contracts\\Inventory\\InventoryItemDTO.cs",
+              "ToolTip": "D:\\dotnet-project\\GestionStock\\GestionStock\\Contracts\\Inventory\\InventoryItemDTO.cs",
+              "RelativeToolTip": "GestionStock\\Contracts\\Inventory\\InventoryItemDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T16:57:45.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "InventoryCountRequests.cs",
+              "DocumentMoniker": "D:\\dotnet-project\\GestionStock\\GestionStock\\Contracts\\Stock\\InventoryCountRequests.cs",
+              "RelativeDocumentMoniker": "GestionStock\\Contracts\\Stock\\InventoryCountRequests.cs",
+              "ToolTip": "D:\\dotnet-project\\GestionStock\\GestionStock\\Contracts\\Stock\\InventoryCountRequests.cs",
+              "RelativeToolTip": "GestionStock\\Contracts\\Stock\\InventoryCountRequests.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T18:37:54.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UnitofMeasureDTO.cs",
+              "DocumentMoniker": "D:\\dotnet-project\\GestionStock\\GestionStock\\Contracts\\UoM\\UnitofMeasureDTO.cs",
+              "RelativeDocumentMoniker": "GestionStock\\Contracts\\UoM\\UnitofMeasureDTO.cs",
+              "ToolTip": "D:\\dotnet-project\\GestionStock\\GestionStock\\Contracts\\UoM\\UnitofMeasureDTO.cs",
+              "RelativeToolTip": "GestionStock\\Contracts\\UoM\\UnitofMeasureDTO.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T16:55:39.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CategorieDTO.cs",
+              "DocumentMoniker": "D:\\dotnet-project\\GestionStock\\GestionStock\\Contracts\\Categories\\CategorieDTO.cs",
+              "RelativeDocumentMoniker": "GestionStock\\Contracts\\Categories\\CategorieDTO.cs",
+              "ToolTip": "D:\\dotnet-project\\GestionStock\\GestionStock\\Contracts\\Categories\\CategorieDTO.cs",
+              "RelativeToolTip": "GestionStock\\Contracts\\Categories\\CategorieDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T16:52:58.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PurchaseOrderRequests.cs",
+              "DocumentMoniker": "D:\\dotnet-project\\GestionStock\\GestionStock\\Contracts\\Orders\\PurchaseOrderRequests.cs",
+              "RelativeDocumentMoniker": "GestionStock\\Contracts\\Orders\\PurchaseOrderRequests.cs",
+              "ToolTip": "D:\\dotnet-project\\GestionStock\\GestionStock\\Contracts\\Orders\\PurchaseOrderRequests.cs",
+              "RelativeToolTip": "GestionStock\\Contracts\\Orders\\PurchaseOrderRequests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T18:30:50.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PagedQuery.cs",
+              "DocumentMoniker": "D:\\dotnet-project\\GestionStock\\GestionStock\\Contracts\\Common\\PagedQuery.cs",
+              "RelativeDocumentMoniker": "GestionStock\\Contracts\\Common\\PagedQuery.cs",
+              "ToolTip": "D:\\dotnet-project\\GestionStock\\GestionStock\\Contracts\\Common\\PagedQuery.cs",
+              "RelativeToolTip": "GestionStock\\Contracts\\Common\\PagedQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T18:21:30.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SalesOrderRequests.cs",
+              "DocumentMoniker": "D:\\dotnet-project\\GestionStock\\GestionStock\\Contracts\\Orders\\SalesOrderRequests.cs",
+              "RelativeDocumentMoniker": "GestionStock\\Contracts\\Orders\\SalesOrderRequests.cs",
+              "ToolTip": "D:\\dotnet-project\\GestionStock\\GestionStock\\Contracts\\Orders\\SalesOrderRequests.cs",
+              "RelativeToolTip": "GestionStock\\Contracts\\Orders\\SalesOrderRequests.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAD4vxIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T18:34:24.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SupplierRequests.cs",
+              "DocumentMoniker": "D:\\dotnet-project\\GestionStock\\GestionStock\\Contracts\\Partners\\SupplierRequests.cs",
+              "RelativeDocumentMoniker": "GestionStock\\Contracts\\Partners\\SupplierRequests.cs",
+              "ToolTip": "D:\\dotnet-project\\GestionStock\\GestionStock\\Contracts\\Partners\\SupplierRequests.cs",
+              "RelativeToolTip": "GestionStock\\Contracts\\Partners\\SupplierRequests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T18:28:56.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "StockMovementRequests.cs",
+              "DocumentMoniker": "D:\\dotnet-project\\GestionStock\\GestionStock\\Contracts\\Stock\\StockMovementRequests.cs",
+              "RelativeDocumentMoniker": "GestionStock\\Contracts\\Stock\\StockMovementRequests.cs",
+              "ToolTip": "D:\\dotnet-project\\GestionStock\\GestionStock\\Contracts\\Stock\\StockMovementRequests.cs",
+              "RelativeToolTip": "GestionStock\\Contracts\\Stock\\StockMovementRequests.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIAwwBYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T18:36:49.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "OrderResponses.cs",
+              "DocumentMoniker": "D:\\dotnet-project\\GestionStock\\GestionStock\\Contracts\\Orders\\OrderResponses.cs",
+              "RelativeDocumentMoniker": "GestionStock\\Contracts\\Orders\\OrderResponses.cs",
+              "ToolTip": "D:\\dotnet-project\\GestionStock\\GestionStock\\Contracts\\Orders\\OrderResponses.cs",
+              "RelativeToolTip": "GestionStock\\Contracts\\Orders\\OrderResponses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T18:35:44.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "WarehouseRequests.cs",
+              "DocumentMoniker": "D:\\dotnet-project\\GestionStock\\GestionStock\\Contracts\\Warehouses\\WarehouseRequests.cs",
+              "RelativeDocumentMoniker": "GestionStock\\Contracts\\Warehouses\\WarehouseRequests.cs",
+              "ToolTip": "D:\\dotnet-project\\GestionStock\\GestionStock\\Contracts\\Warehouses\\WarehouseRequests.cs",
+              "RelativeToolTip": "GestionStock\\Contracts\\Warehouses\\WarehouseRequests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T18:26:08.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProductResponses.cs",
+              "DocumentMoniker": "D:\\dotnet-project\\GestionStock\\GestionStock\\Contracts\\Products\\ProductResponses.cs",
+              "RelativeDocumentMoniker": "GestionStock\\Contracts\\Products\\ProductResponses.cs",
+              "ToolTip": "D:\\dotnet-project\\GestionStock\\GestionStock\\Contracts\\Products\\ProductResponses.cs",
+              "RelativeToolTip": "GestionStock\\Contracts\\Products\\ProductResponses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T18:25:12.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ProductRequests.cs",
+              "DocumentMoniker": "D:\\dotnet-project\\GestionStock\\GestionStock\\Contracts\\Products\\ProductRequests.cs",
+              "RelativeDocumentMoniker": "GestionStock\\Contracts\\Products\\ProductRequests.cs",
+              "ToolTip": "D:\\dotnet-project\\GestionStock\\GestionStock\\Contracts\\Products\\ProductRequests.cs",
+              "RelativeToolTip": "GestionStock\\Contracts\\Products\\ProductRequests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T18:23:02.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PagedResult.cs",
+              "DocumentMoniker": "D:\\dotnet-project\\GestionStock\\GestionStock\\Contracts\\Common\\PagedResult.cs",
+              "RelativeDocumentMoniker": "GestionStock\\Contracts\\Common\\PagedResult.cs",
+              "ToolTip": "D:\\dotnet-project\\GestionStock\\GestionStock\\Contracts\\Common\\PagedResult.cs",
+              "RelativeToolTip": "GestionStock\\Contracts\\Common\\PagedResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T18:22:00.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ValidationConstants.cs",
+              "DocumentMoniker": "D:\\dotnet-project\\GestionStock\\GestionStock\\Contracts\\Common\\ValidationConstants.cs",
+              "RelativeDocumentMoniker": "GestionStock\\Contracts\\Common\\ValidationConstants.cs",
+              "ToolTip": "D:\\dotnet-project\\GestionStock\\GestionStock\\Contracts\\Common\\ValidationConstants.cs",
+              "RelativeToolTip": "GestionStock\\Contracts\\Common\\ValidationConstants.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA4AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T18:20:33.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "20251228174244_InitialeCreation.cs",
+              "DocumentMoniker": "D:\\dotnet-project\\GestionStock\\GestionStock\\Migrations\\20251228174244_InitialeCreation.cs",
+              "RelativeDocumentMoniker": "GestionStock\\Migrations\\20251228174244_InitialeCreation.cs",
+              "ToolTip": "D:\\dotnet-project\\GestionStock\\GestionStock\\Migrations\\20251228174244_InitialeCreation.cs",
+              "RelativeToolTip": "GestionStock\\Migrations\\20251228174244_InitialeCreation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T17:42:45.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\dotnet-project\\GestionStock\\GestionStock\\appsettings.json",
+              "RelativeDocumentMoniker": "GestionStock\\appsettings.json",
+              "ToolTip": "D:\\dotnet-project\\GestionStock\\GestionStock\\appsettings.json",
+              "RelativeToolTip": "GestionStock\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-28T16:23:13.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\dotnet-project\\GestionStock\\GestionStock\\Models\\Products\\Product.cs",
+              "RelativeDocumentMoniker": "GestionStock\\Models\\Products\\Product.cs",
+              "ToolTip": "D:\\dotnet-project\\GestionStock\\GestionStock\\Models\\Products\\Product.cs",
+              "RelativeToolTip": "GestionStock\\Models\\Products\\Product.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:33:30.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Warehouse.cs",
+              "DocumentMoniker": "D:\\dotnet-project\\GestionStock\\GestionStock\\Models\\Products\\Warehouse.cs",
+              "RelativeDocumentMoniker": "GestionStock\\Models\\Products\\Warehouse.cs",
+              "ToolTip": "D:\\dotnet-project\\GestionStock\\GestionStock\\Models\\Products\\Warehouse.cs",
+              "RelativeToolTip": "GestionStock\\Models\\Products\\Warehouse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:29:44.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\dotnet-project\\GestionStock\\GestionStock\\Models\\Users\\User.cs",
+              "RelativeDocumentMoniker": "GestionStock\\Models\\Users\\User.cs",
+              "ToolTip": "D:\\dotnet-project\\GestionStock\\GestionStock\\Models\\Users\\User.cs",
+              "RelativeToolTip": "GestionStock\\Models\\Users\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:24:00.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "InventoryItem.cs",
+              "DocumentMoniker": "D:\\dotnet-project\\GestionStock\\GestionStock\\Models\\Inventory\\InventoryItem.cs",
+              "RelativeDocumentMoniker": "GestionStock\\Models\\Inventory\\InventoryItem.cs",
+              "ToolTip": "D:\\dotnet-project\\GestionStock\\GestionStock\\Models\\Inventory\\InventoryItem.cs",
+              "RelativeToolTip": "GestionStock\\Models\\Inventory\\InventoryItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:35:55.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "InventoryCount.cs",
+              "DocumentMoniker": "D:\\dotnet-project\\GestionStock\\GestionStock\\Models\\Inventory\\InventoryCount.cs",
+              "RelativeDocumentMoniker": "GestionStock\\Models\\Inventory\\InventoryCount.cs",
+              "ToolTip": "D:\\dotnet-project\\GestionStock\\GestionStock\\Models\\Inventory\\InventoryCount.cs",
+              "RelativeToolTip": "GestionStock\\Models\\Inventory\\InventoryCount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:41:45.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "InventoryCountLine.cs",
+              "DocumentMoniker": "D:\\dotnet-project\\GestionStock\\GestionStock\\Models\\Inventory\\InventoryCountLine.cs",
+              "RelativeDocumentMoniker": "GestionStock\\Models\\Inventory\\InventoryCountLine.cs",
+              "ToolTip": "D:\\dotnet-project\\GestionStock\\GestionStock\\Models\\Inventory\\InventoryCountLine.cs",
+              "RelativeToolTip": "GestionStock\\Models\\Inventory\\InventoryCountLine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:42:07.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\dotnet-project\\GestionStock\\GestionStock\\Models\\Products\\Category.cs",
+              "RelativeDocumentMoniker": "GestionStock\\Models\\Products\\Category.cs",
+              "ToolTip": "D:\\dotnet-project\\GestionStock\\GestionStock\\Models\\Products\\Category.cs",
+              "RelativeToolTip": "GestionStock\\Models\\Products\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:32:23.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "D:\\dotnet-project\\GestionStock\\GestionStock\\Models\\Users\\UserRole.cs",
+              "RelativeDocumentMoniker": "GestionStock\\Models\\Users\\UserRole.cs",
+              "ToolTip": "D:\\dotnet-project\\GestionStock\\GestionStock\\Models\\Users\\UserRole.cs",
+              "RelativeToolTip": "GestionStock\\Models\\Users\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:24:08.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\dotnet-project\\GestionStock\\GestionStock\\Models\\Users\\Role.cs",
+              "RelativeDocumentMoniker": "GestionStock\\Models\\Users\\Role.cs",
+              "ToolTip": "D:\\dotnet-project\\GestionStock\\GestionStock\\Models\\Users\\Role.cs",
+              "RelativeToolTip": "GestionStock\\Models\\Users\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:24:14.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "StockMovementLine.cs",
+              "DocumentMoniker": "D:\\dotnet-project\\GestionStock\\GestionStock\\Models\\Stock\\StockMovementLine.cs",
+              "RelativeDocumentMoniker": "GestionStock\\Models\\Stock\\StockMovementLine.cs",
+              "ToolTip": "D:\\dotnet-project\\GestionStock\\GestionStock\\Models\\Stock\\StockMovementLine.cs",
+              "RelativeToolTip": "GestionStock\\Models\\Stock\\StockMovementLine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:37:57.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "StockMovement.cs",
+              "DocumentMoniker": "D:\\dotnet-project\\GestionStock\\GestionStock\\Models\\Stock\\StockMovement.cs",
+              "RelativeDocumentMoniker": "GestionStock\\Models\\Stock\\StockMovement.cs",
+              "ToolTip": "D:\\dotnet-project\\GestionStock\\GestionStock\\Models\\Stock\\StockMovement.cs",
+              "RelativeToolTip": "GestionStock\\Models\\Stock\\StockMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:37:24.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "SalesOrderLine.cs",
+              "DocumentMoniker": "D:\\dotnet-project\\GestionStock\\GestionStock\\Models\\Sales\\SalesOrderLine.cs",
+              "RelativeDocumentMoniker": "GestionStock\\Models\\Sales\\SalesOrderLine.cs",
+              "ToolTip": "D:\\dotnet-project\\GestionStock\\GestionStock\\Models\\Sales\\SalesOrderLine.cs",
+              "RelativeToolTip": "GestionStock\\Models\\Sales\\SalesOrderLine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:40:53.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "SalesOrder.cs",
+              "DocumentMoniker": "D:\\dotnet-project\\GestionStock\\GestionStock\\Models\\Sales\\SalesOrder.cs",
+              "RelativeDocumentMoniker": "GestionStock\\Models\\Sales\\SalesOrder.cs",
+              "ToolTip": "D:\\dotnet-project\\GestionStock\\GestionStock\\Models\\Sales\\SalesOrder.cs",
+              "RelativeToolTip": "GestionStock\\Models\\Sales\\SalesOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:40:26.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "D:\\dotnet-project\\GestionStock\\GestionStock\\Models\\Parties\\Supplier.cs",
+              "RelativeDocumentMoniker": "GestionStock\\Models\\Parties\\Supplier.cs",
+              "ToolTip": "D:\\dotnet-project\\GestionStock\\GestionStock\\Models\\Parties\\Supplier.cs",
+              "RelativeToolTip": "GestionStock\\Models\\Parties\\Supplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:34:45.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\dotnet-project\\GestionStock\\GestionStock\\Models\\Parties\\Customer.cs",
+              "RelativeDocumentMoniker": "GestionStock\\Models\\Parties\\Customer.cs",
+              "ToolTip": "D:\\dotnet-project\\GestionStock\\GestionStock\\Models\\Parties\\Customer.cs",
+              "RelativeToolTip": "GestionStock\\Models\\Parties\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:35:11.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "PurchaseOrderLine.cs",
+              "DocumentMoniker": "D:\\dotnet-project\\GestionStock\\GestionStock\\Models\\Order\\PurchaseOrderLine.cs",
+              "RelativeDocumentMoniker": "GestionStock\\Models\\Order\\PurchaseOrderLine.cs",
+              "ToolTip": "D:\\dotnet-project\\GestionStock\\GestionStock\\Models\\Order\\PurchaseOrderLine.cs",
+              "RelativeToolTip": "GestionStock\\Models\\Order\\PurchaseOrderLine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:39:21.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "PurchaseOrder.cs",
+              "DocumentMoniker": "D:\\dotnet-project\\GestionStock\\GestionStock\\Models\\Order\\PurchaseOrder.cs",
+              "RelativeDocumentMoniker": "GestionStock\\Models\\Order\\PurchaseOrder.cs",
+              "ToolTip": "D:\\dotnet-project\\GestionStock\\GestionStock\\Models\\Order\\PurchaseOrder.cs",
+              "RelativeToolTip": "GestionStock\\Models\\Order\\PurchaseOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:38:49.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "UnitOfMeasure.cs",
+              "DocumentMoniker": "D:\\dotnet-project\\GestionStock\\GestionStock\\Models\\Products\\UnitOfMeasure.cs",
+              "RelativeDocumentMoniker": "GestionStock\\Models\\Products\\UnitOfMeasure.cs",
+              "ToolTip": "D:\\dotnet-project\\GestionStock\\GestionStock\\Models\\Products\\UnitOfMeasure.cs",
+              "RelativeToolTip": "GestionStock\\Models\\Products\\UnitOfMeasure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:33:06.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "D:\\dotnet-project\\GestionStock\\GestionStock\\Enums\\Gender.cs",
+              "RelativeDocumentMoniker": "GestionStock\\Enums\\Gender.cs",
+              "ToolTip": "D:\\dotnet-project\\GestionStock\\GestionStock\\Enums\\Gender.cs",
+              "RelativeToolTip": "GestionStock\\Enums\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:27:00.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "MovementStatus.cs",
+              "DocumentMoniker": "D:\\dotnet-project\\GestionStock\\GestionStock\\Enums\\MovementStatus.cs",
+              "RelativeDocumentMoniker": "GestionStock\\Enums\\MovementStatus.cs",
+              "ToolTip": "D:\\dotnet-project\\GestionStock\\GestionStock\\Enums\\MovementStatus.cs",
+              "RelativeToolTip": "GestionStock\\Enums\\MovementStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:21:04.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CountStatus.cs",
+              "DocumentMoniker": "D:\\dotnet-project\\GestionStock\\GestionStock\\Enums\\CountStatus.cs",
+              "RelativeDocumentMoniker": "GestionStock\\Enums\\CountStatus.cs",
+              "ToolTip": "D:\\dotnet-project\\GestionStock\\GestionStock\\Enums\\CountStatus.cs",
+              "RelativeToolTip": "GestionStock\\Enums\\CountStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:20:26.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "D:\\dotnet-project\\GestionStock\\GestionStock\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "GestionStock\\Enums\\OrderStatus.cs",
+              "ToolTip": "D:\\dotnet-project\\GestionStock\\GestionStock\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "GestionStock\\Enums\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:20:02.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "MovementType.cs",
+              "DocumentMoniker": "D:\\dotnet-project\\GestionStock\\GestionStock\\Enums\\MovementType.cs",
+              "RelativeDocumentMoniker": "GestionStock\\Enums\\MovementType.cs",
+              "ToolTip": "D:\\dotnet-project\\GestionStock\\GestionStock\\Enums\\MovementType.cs",
+              "RelativeToolTip": "GestionStock\\Enums\\MovementType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:19:31.821Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
